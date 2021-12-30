@@ -1,0 +1,38 @@
+# Leetcode
+
+## 1015. Smallest Integer Divisible by K
+
+
+[문제링크](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
+
+: 모든 자리수가 1로 된 수 중 k로 나뉘어지는 최소값의 길이가 몇인지 구하는 문제
+
+
+### 코드
+
+```swift
+class Solution {
+    func smallestRepunitDivByK(_ k: Int) -> Int {
+        if k % 2 == 0 {
+            return -1 }
+        var len : Int = 1
+        var n : Int
+        var remainder : Int = 0
+        while (len <= k)
+        {
+            n = remainder * 10 + 1
+            remainder = n % k
+            if remainder == 0 {
+                return len
+            }
+            len += 1
+        }
+        return -1
+    }
+}
+```
+
+### 풀이 이유
+
+- n이 커지다보면 Int 범위를 벗어나기 때문에
+비둘기집의 원리를 사용.
