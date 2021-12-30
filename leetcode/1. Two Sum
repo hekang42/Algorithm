@@ -1,0 +1,36 @@
+# Leetcode
+
+## 1. Two Sum
+
+
+[문제링크](https://leetcode.com/problems/two-sum/)
+
+: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+
+### 코드
+
+```swift
+class Solution {
+    func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
+        var n : Int = 0
+        var m : Int
+
+        for i in nums {
+            n += 1
+            m = n
+            for j in nums[n ... nums.count - 1] {
+                if (i + j == target) {
+                    return [n - 1, m]
+                }
+                m += 1
+            }
+        }
+        return [0]
+    }
+}
+```
+
+### 풀이 이유
+
+-
