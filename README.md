@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220102 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Brute Force | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060) |
 | 220101 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/35.%20Search%20Insert%20Position.md) |
 | 220101 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Binary Search | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/278.%20First%20Bad%20Version.md) |
 | 211231 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Array, Math, Greedy | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position) |
