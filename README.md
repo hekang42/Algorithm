@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220105 | [Power of Two](https://leetcode.com/problems/power-of-two/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/231.%20Power%20of%20Two.md) |
 | 220104 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1009.%20Complement%20of%20Base%2010%20Integer.md) |
 | 220103 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | Math | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/878.%20Nth%20Magical%20Number.md) |
 | 220103 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/997.%20Find%20the%20Town%20Judge.md) |
