@@ -3,7 +3,8 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 220110 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1041.%20Robot%20Bounded%20In%20Circle.md) |
+| 220111 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md) |
+| 220111 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1041.%20Robot%20Bounded%20In%20Circle.md) |
 | 220110 | [Add Binary](https://leetcode.com/problems/add-binary/) | Math | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/67.%20Add%20Binary.md) |
 | 220109 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List, Recursive | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/2.%20Add%20Two%20Numbers.md) |
 | 220108 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/14.%20Longest%20Common%20Prefix.md) |
