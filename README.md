@@ -3,7 +3,8 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 220116 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) |  | [풀이](https://leetcode.com/problems/maximize-distance-to-closest-person/) |
+| 220117 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) |  | [풀이](https://leetcode.com/problems/290.%20Word%20Pattern.md) |
+| 220116 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) |  | [풀이](https://leetcode.com/problems/839.%20maximize-distance-to-closest-person.md/) |
 | 220115 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Greedy, DP | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/45.%20Jump%20Game%20II.md) |
 | 220115 | [Jump Game](https://leetcode.com/problems/jump-game/) | Greedy, DP | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/55.%20Jump%20Game.md) |
 | 220114 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/8.%20String%20to%20Integer%20(atoi).md) |
