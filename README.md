@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220124 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) |  | [풀이](https://leetcode.com/problems/1291.%20Sequential%20Digits.md) |
 | 220122 | [136. Single Number](https://leetcode.com/problems/single-number/) |  | [풀이](https://leetcode.com/problems/136.%20Single%20Number.md) |
 | 220120 | [875. Koko Eating Bananas](https://leetcode.com/problems/https://leetcode.com/problems/koko-eating-bananas/) |  | [풀이](https://leetcode.com/problems/875.%20Koko%20Eating%20Bananas.md) |
 | 220118 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) |  | [풀이](https://leetcode.com/problems/605.%20Can%20Place%20Flowers.md) |
