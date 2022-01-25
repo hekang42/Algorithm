@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220126 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) |  | [풀이](https://leetcode.com/problems/941.%20Valid%20Mountain%20Array.md) |
 | 220125 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) |  | [풀이](https://leetcode.com/problems/520.%20Detect%20Capital.md) |
 | 220124 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) |  | [풀이](https://leetcode.com/problems/1291.%20Sequential%20Digits.md) |
 | 220122 | [136. Single Number](https://leetcode.com/problems/single-number/) |  | [풀이](https://leetcode.com/problems/136.%20Single%20Number.md) |
