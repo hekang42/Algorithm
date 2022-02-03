@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220203 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  | [풀이](https://leetcode.com/problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 | 220126 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) |  | [풀이](https://leetcode.com/problems/941.%20Valid%20Mountain%20Array.md) |
 | 220125 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) |  | [풀이](https://leetcode.com/problems/520.%20Detect%20Capital.md) |
 | 220124 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) |  | [풀이](https://leetcode.com/problems/1291.%20Sequential%20Digits.md) |
