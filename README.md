@@ -3,17 +3,18 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 220207 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) |  | [풀이](389.%20Find%20the%20Difference) |
-| 220204 | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) |  | [풀이](https://leetcode.com/problems/454.%204Sum%20II) |
-| 220203 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  | [풀이](https://leetcode.com/problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
-| 220126 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) |  | [풀이](https://leetcode.com/problems/941.%20Valid%20Mountain%20Array.md) |
-| 220125 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) |  | [풀이](https://leetcode.com/problems/520.%20Detect%20Capital.md) |
-| 220124 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) |  | [풀이](https://leetcode.com/problems/1291.%20Sequential%20Digits.md) |
-| 220122 | [136. Single Number](https://leetcode.com/problems/single-number/) |  | [풀이](https://leetcode.com/problems/136.%20Single%20Number.md) |
-| 220120 | [875. Koko Eating Bananas](https://leetcode.com/problems/https://leetcode.com/problems/koko-eating-bananas/) |  | [풀이](https://leetcode.com/problems/875.%20Koko%20Eating%20Bananas.md) |
-| 220118 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) |  | [풀이](https://leetcode.com/problems/605.%20Can%20Place%20Flowers.md) |
-| 220117 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) |  | [풀이](https://leetcode.com/problems/290.%20Word%20Pattern.md) |
-| 220116 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) |  | [풀이](https://leetcode.com/problems/839.%20maximize-distance-to-closest-person.md/) |
+| 220208 | [258. Add Digits](https://leetcode.com/problems/add-digits/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/258.%20Add%20Digits.md) |
+| 220207 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/389.%20Find%20the%20Difference.md) |
+| 220204 | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/454.%204Sum%20II.md) |
+| 220203 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
+| 220126 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/941.%20Valid%20Mountain%20Array.md) |
+| 220125 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/520.%20Detect%20Capital.md) |
+| 220124 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1291.%20Sequential%20Digits.md) |
+| 220122 | [136. Single Number](https://leetcode.com/problems/single-number/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/136.%20Single%20Number.md) |
+| 220120 | [875. Koko Eating Bananas](https://leetcode.com/problems/https://leetcode.com/problems/koko-eating-bananas/) |  | [풀이](ttps://github.com/hekang42/Algorithm/blob/master/leetcode/875.%20Koko%20Eating%20Bananas.md) |
+| 220118 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/605.%20Can%20Place%20Flowers.md) |
+| 220117 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/290.%20Word%20Pattern.md) |
+| 220116 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/839.%20maximize-distance-to-closest-person.md/) |
 | 220115 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Greedy, DP | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/45.%20Jump%20Game%20II.md) |
 | 220115 | [Jump Game](https://leetcode.com/problems/jump-game/) | Greedy, DP | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/55.%20Jump%20Game.md) |
 | 220114 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/8.%20String%20to%20Integer%20(atoi).md) |
