@@ -3,7 +3,8 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 220308 | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/programmers/타겟넘버.md) |
+| 220308 | [n진수게임](https://programmers.co.kr/learn/courses/30/lessons/17687) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/programmers/n진수게임.md) |
+| 220308 | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | DFS/BFS | [풀이](https://github.com/hekang42/Algorithm/blob/master/programmers/타겟넘버.md) |
 | 220308 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/programmers/오픈채팅방.md) |
 | 220307 | [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/programmers/방금그곡.md) |
 | 220213 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/125.%20Valid%20Palindrome.md) |
