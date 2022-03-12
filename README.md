@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220313 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/392.%20Is%20Subsequence.md) |
 | 220308 | [n진수게임](https://programmers.co.kr/learn/courses/30/lessons/17687) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/programmers/n진수게임.md) |
 | 220308 | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | DFS/BFS | [풀이](https://github.com/hekang42/Algorithm/blob/master/programmers/타겟넘버.md) |
 | 220308 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/programmers/오픈채팅방.md) |
