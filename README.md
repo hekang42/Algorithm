@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220316 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/946.%20Validate%20Stack%20Sequences.md) |
 | 220315 | [1043. 거짓말](https://www.acmicpc.net/problem/1043) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/baekjoon/1043.%20거짓말.md) |
 | 220313 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/392.%20Is%20Subsequence.md) |
 | 220310 | [n진수게임](https://programmers.co.kr/learn/courses/30/lessons/17687) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/programmers/n진수게임.md) |
