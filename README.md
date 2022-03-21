@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220321 | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md) |
 | 220317 | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/856.%20Score%20of%20Parentheses.md) |
 | 220316 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/946.%20Validate%20Stack%20Sequences.md) |
 | 220315 | [1043. 거짓말](https://www.acmicpc.net/problem/1043) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/baekjoon/1043.%20거짓말.md) |
