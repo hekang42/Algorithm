@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220322 | [1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.md) |
 | 220321 | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md) |
 | 220317 | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/856.%20Score%20of%20Parentheses.md) |
 | 220316 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/946.%20Validate%20Stack%20Sequences.md) |
