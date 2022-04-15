@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220415 | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/669.%20Trim%20a%20Binary%20Search%20Tree.md) |
 | 220414 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/700.%20Search%20in%20a%20Binary%20Search%20Tree.md) |
 | 220327 | [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.md) |
 | 220325 | [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1029.%20Two%20City%20Scheduling.md) |
