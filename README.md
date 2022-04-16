@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220416 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/189.%20Rotate%20Array.md) |
 | 220416 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/977.%20Squares%20of%20a%20Sorted%20Array.md) |
 | 220416 | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/538.%20Convert%20BST%20to%20Greater%20Tree.md) |
 | 220415 | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/669.%20Trim%20a%20Binary%20Search%20Tree.md) |
