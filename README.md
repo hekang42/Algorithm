@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220418 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) |
 | 220417 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md) |
 | 220416 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/189.%20Rotate%20Array.md) |
 | 220416 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/977.%20Squares%20of%20a%20Sorted%20Array.md) |
