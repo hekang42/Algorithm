@@ -3,7 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 220521 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/53.%20Maximum%20Subarray.md) |
+| 220521 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | dp | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/53.%20Maximum%20Subarray.md) |
 | 220521 | [322. Coin Change](https://leetcode.com/problems/coin-change/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/322.%20Coin%20Change.md) |
 | 220520 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/63.%20Unique%20Paths%20II.md) |
 | 220418 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) |
