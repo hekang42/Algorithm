@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220526 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/191.%20Number%20of%201%20Bits.md) |
 | 220525 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | dp | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/746.%20Min%20Cost%20Climbing%20Stairs.md) |
 | 220524 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | dp | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/70.%20Climbing%20Stairs.md) |
 | 220521 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | dp | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/53.%20Maximum%20Subarray.md) |
