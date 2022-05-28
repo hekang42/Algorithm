@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220528 | [268. Missing Number](https://leetcode.com/problems/missing-number/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/268.%20Missing%20Number.md) |
 | 220527 | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.md) |
 | 220526 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/191.%20Number%20of%201%20Bits.md) |
 | 220525 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | dp | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/746.%20Min%20Cost%20Climbing%20Stairs.md) |
