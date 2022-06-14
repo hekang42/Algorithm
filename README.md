@@ -3,6 +3,7 @@
 
 | 날짜  | 문제                                               | 분류                                          |                                              |
 | ------ | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 220614 | [120. Triangle](https://leetcode.com/problems/triangle/) | two pointer | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/120.%20Triangle.md) |
 | 220613 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | two pointer | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/1695.%20Maximum%20Erasure%20Value.md) |
 | 220612 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | dp | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/118.%20Pascal's%20Triangle.md) |
 | 220529 | [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) |  | [풀이](https://github.com/hekang42/Algorithm/blob/master/leetcode/318.%20Maximum%20Product%20of%20Word%20Lengths.md) |
